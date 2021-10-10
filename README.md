@@ -20,7 +20,8 @@ This study aims to determine the classification performance of random forest (RF
 
 ## References
 
-- [Random Forests](https://link.springer.com/article/10.1023/A:1010933404324)
-- [Support-Vector Networks](https://link.springer.com/article/10.1007/BF00994018)
-- [SMOTE: Synthetic Minority Over-sampling Technique](https://arxiv.org/abs/1106.1813)
+- Breiman, L. 2001. [Random Forests](https://link.springer.com/article/10.1023/A:1010933404324). Machine Learning, 45(1)(2001), hal. 5–32. 
+- Chawla, Nitesh V., Bowyer, Kevin W., Hall, Lawrence O. dan Kegelmeyer, W. Philip. 2002. [SMOTE: Synthetic Minority Over-sampling Technique](https://arxiv.org/abs/1106.1813). Journal of Artificial Intelligence Research, 16, 321–357.
+- Vapnik, V. dan Cortes, C. 1995. [Support-Vector Networks](https://link.springer.com/article/10.1007/BF00994018). Machine Learning, 20, 273–297.
+
 
