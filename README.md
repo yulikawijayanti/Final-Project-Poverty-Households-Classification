@@ -18,6 +18,11 @@ This study aims to determine the classification performance of random forest (RF
 
 - Ni Putu Yulika Trisna Wijayanti - Department of Mathematics, Udayana University [Email: yulika.wijayanti@gmail.com]
 
+Supervisors :
+
+- Ir. I Putu Eka Nila Kencana, MT - Department of Mathematics, Udayana University [Email: i.putu.enk@unud.ac.id] 
+- I Wayan Sumarjaya, S.Si., M.Stats - Department of Mathematics, Udayana University [Email: sumarjaya@unud.ac.id]
+
 ## References
 
 - Breiman, L. 2001. [Random Forests](https://link.springer.com/article/10.1023/A:1010933404324). Machine Learning, 45(1)(2001), hal. 5–32. 
