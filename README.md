@@ -14,3 +14,7 @@ This study aims to determine the classification performance of random forest (RF
 - Python 3.7.0
 - Scikit-learn 0.23.1
 
+## Contact
+
+- Ni Putu Yulika Trisna Wijayanti - Department of Mathematics – Udayana University [Email: yulika.wijayanti@gmail.com]
+
