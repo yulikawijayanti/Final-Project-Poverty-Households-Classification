@@ -1,6 +1,6 @@
 # CLASSIFICATION OF POVERTY HOUSEHOLDS USING RANDOM FOREST AND SUPPORT VECTOR MACHINE METHODS
 
-*This is the final project aimed at obtaining a bachelor of science degree.
+*This is the final project aimed at obtaining a bachelor of science degree.*
 
 ## Introduction
 
