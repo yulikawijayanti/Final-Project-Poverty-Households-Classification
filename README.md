@@ -1,6 +1,7 @@
 # CLASSIFICATION OF POVERTY HOUSEHOLDS USING RANDOM FOREST AND SUPPORT VECTOR MACHINE METHODS
 
-![GitHub contributors](https://img.shields.io/github/contributors/yulikawijayanti/Final-Project-Poverty-Households-Classification)  ![GitHub issues](https://img.shields.io/bitbucket/issues-raw/yulikatrisna/Final-Project-Poverty-Households-Classification?color=%23ff00001&style=flat-square) 
+![GitHub contributors](https://img.shields.io/github/contributors/yulikawijayanti/Final-Project-Poverty-Households-Classification?color=blue&style=flat-square)  ![GitHub issues](https://img.shields.io/github/issues/yulikawijayanti/Final-Project-Poverty-Households-Classification?color=blueviolet&style=flat-square) ![GitHub downloads](https://img.shields.io/github/downloads/yulikawijayanti/Final-Project-Poverty-Households-Classification/total?color=purple&style=flat-square)  ![GitHub forks](https://img.shields.io/github/forks/yulikawijayanti/Final-Project-Poverty-Households-Classification?color=orange&style=flat-square)
+
 
 *This is the final project aimed at obtaining a bachelor of science degree.*
 
