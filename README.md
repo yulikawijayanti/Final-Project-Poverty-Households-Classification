@@ -16,6 +16,11 @@ This study aims to determine the classification performance of random forest (RF
 
 ## Contact
 
-- Ni Putu Yulika Trisna Wijayanti 
-  Department of Mathematics – Udayana University [Email: yulika.wijayanti@gmail.com]
+- Ni Putu Yulika Trisna Wijayanti - Department of Mathematics, Udayana University [Email: yulika.wijayanti@gmail.com]
+
+## References
+
+- [Random Forests](https://link.springer.com/article/10.1023/A:1010933404324)
+- [Support-Vector Networks](https://link.springer.com/article/10.1007/BF00994018)
+- [SMOTE: Synthetic Minority Over-sampling Technique](https://arxiv.org/abs/1106.1813)
 
