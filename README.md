@@ -11,7 +11,7 @@ The COVID-19 pandemic has increased the percentage of poverty in Bali Province. 
 
 ## Project Description
 
-This study aims to determine the classification performance of random forest (RF) and support vector machine (SVM) models with or without handling imbalanced data and choose the best model. It used data from The National Socio-Economic Survey for March 2020 in Bali Province. The methods of handling imbalanced data are random undersampling, random oversampling, and SMOTE.
+This study aims to determine the classification performance of random forest (RF) and support vector machine (SVM) models with or without handling imbalanced data and choose the best model. It used data National Socio-Economic Survey for March 2020 in Bali Province from BPS Indonesia statistical information service system. The methods of handling imbalanced data are random undersampling, random oversampling, and SMOTE.
 
 ## Prerequisites
 - Python 3.7.0
