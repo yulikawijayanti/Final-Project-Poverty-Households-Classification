@@ -16,5 +16,6 @@ This study aims to determine the classification performance of random forest (RF
 
 ## Contact
 
-- Ni Putu Yulika Trisna Wijayanti - Department of Mathematics – Udayana University [Email: yulika.wijayanti@gmail.com]
+- Ni Putu Yulika Trisna Wijayanti 
+  Department of Mathematics – Udayana University [Email: yulika.wijayanti@gmail.com]
 
