@@ -1,5 +1,7 @@
 # CLASSIFICATION OF POVERTY HOUSEHOLDS USING RANDOM FOREST AND SUPPORT VECTOR MACHINE METHODS
 
+*This is the final project aimed at obtaining a bachelor of science degree.
+
 ## Introduction
 
 The COVID-19 pandemic has increased the percentage of poverty in Bali Province. To overcome this, various efforts and programs for poor households have been carried out by the government. However, the realization has not been optimal and indicated not on target. Therefore, the model needed to classify households into poor or non-poor categories.
